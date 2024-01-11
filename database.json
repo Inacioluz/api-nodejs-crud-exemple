@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": "d80426c3-3a90-41ee-9498-ae92e07c763e",
+      "name": "Luiz Adriano ",
+      "sobrenome": "Santana",
+      "idade": "45",
+      "sexo": "M"
+    },
+    {
+      "id": "b01feffa-7eaf-41dd-9410-b6f3b686973e",
+      "name": "Xavier",
+      "sobrenome": "Freitas",
+      "idade": "12",
+      "sexo": "M"
+    },
+    {
+      "id": "0ea1f17e-438d-4ee0-b4bd-f49a226a8ef6",
+      "name": "Leila",
+      "sobrenome": "cardoso",
+      "idade": "22",
+      "sexo": "f"
+    }
+  ]
+}
