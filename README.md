@@ -44,7 +44,7 @@ Start the server
 Clone the project
 
 ```bash
-  git clone git@github.com:Inacioluz/api-nodejs-conection-mysql.git
+  git clone git@github.com:Inacioluz/api-nodejs-crud-exemple.git
 ```
 
 Enter the project directory
