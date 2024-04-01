@@ -47,12 +47,6 @@ Clone the project
   git clone git@github.com:Inacioluz/api-nodejs-crud-exemple.git
 ```
 
-Enter the project directory
-
-```bash
-  cd portfolio
-```
-
 Install with dependencies
 
 ```bash
